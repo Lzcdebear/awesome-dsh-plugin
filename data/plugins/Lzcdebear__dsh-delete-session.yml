@@ -1,0 +1,6 @@
+url: https://github.com/Lzcdebear/dsh-delete-session
+name: Lzcdebear/dsh-delete-session
+category: session
+description:
+  en: Deletes a conversation for real from the session menu, including its subagent sessions, the conversations forked off it, and its workspace and cache records.
+  zh: 在会话菜单里真正删除对话，连同它的子智能体会话、由它 fork 出的对话，以及工程记录与投影缓存。
